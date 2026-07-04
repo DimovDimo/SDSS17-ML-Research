@@ -1,16 +1,21 @@
 # Machine Learning Research on the Stellar Classification Dataset (SDSS17)
 
+## Project Evolution Visualization (Gource)
+A 20-second time-lapse representing the repository's structural growth and commit history.
+
+![Project Timeline Visualization](./Additional%20resources/project_evolution.gif)
+
+## Visual Synthesis
+A comprehensive dashboard merging analytical insights from the research.
+
+![Visual Synthesis](./Additional%20resources/README-merged-image.jpg)
+
+---
+
 ## OSF Preregistration Style Documentation
 * **Project Title:** Machine Learning Research on the Stellar Classification Dataset (SDSS17)
 * **Author:** Dimo Dimov
 * **Affiliation:** Machine Learning Course 2026 @ SoftUni
-
----
-
-## Project Evolution Visualization (Gource)
-A 20-second time-lapse representing the repository's structural growth and commit history.
-
-![Project Timeline Visualization](./Additional%20resources/gource_project_visualization.gif)
 
 ---
 

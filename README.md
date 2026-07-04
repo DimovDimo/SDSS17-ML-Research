@@ -7,6 +7,13 @@
 
 ---
 
+## Project Evolution Visualization (Gource)
+A 20-second time-lapse representing the repository's structural growth and commit history.
+
+![Project Timeline Visualization](./Additional%20resources/gource_project_visualization.gif)
+
+---
+
 ## 1. Study Information
 
 ### 1.1. Hypotheses

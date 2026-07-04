@@ -11,8 +11,8 @@
 
 ### 1.1. Hypotheses
 * **Primary Hypothesis ($H_1$):** The Machine Learning model will yield a statistically significant lift in the F1-Score for the overlapping GALAXY and QSO classes, demonstrating its capacity to solve problems where deterministic physics formulas meet observational variance.
-* **Secondary Hypothesis ($H_2$):** Continuous photometric redshift ($Photo\text{-}Z$) cannot be mapped accurately using simple linear models due to multi-dimensional spectral overlap, but non-parametric ensemble models optimized with robust error criteria (Huber and Pinball loss) will successfully capture the non-linear data manifold and precisely quantify observational uncertainty.
-* **Tertiary Hypothesis ($H_3$):** The celestial spatial parameters **alpha** and **delta** are mathematically orthogonal and independent to the photometric filter profiles. Because they share no physical baseline with light intensity or expansion velocity, their predictability will approach absolute zero, rendering them the hardest to predict features in the entire dataset.
+* **Secondary Hypothesis ($H_2$):** Engineered multi-band photometric color indexes ($u-g, g-r, r-i, i-z$) reduce semantic multicollinearity inherent in raw telescope magnitudes, functioning as superior linear and non-linear separators.
+* **Exploratory Hypothesis ($H_3$):** Randomized single-layer feedforward configurations (Extreme Learning Machines) optimize training latency through analytical pseudo-inverse solving but hit a generalization ceiling in capturing hierarchical boundary warps compared to gradient-descent-driven models.
 
 ---
 

@@ -75,3 +75,6 @@ Models are evaluated comprehensively to ensure resilience against class imbalanc
 
 ### 5.2. Verification & Convergence Thresholds
 Hypothesis confirmation relies on achieving performance parity across bootstrapping (Random Forest) and residual gradient corrections (LightGBM), ensuring empirical stability across distinct loss surfaces.
+
+---
+*Created as part of the SoftUni Machine Learning Course (May 2026).*
